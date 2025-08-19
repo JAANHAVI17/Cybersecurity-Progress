@@ -23,7 +23,7 @@ my reflections, and how my understanding grows over time.
 |------------|----------------------------------|-----------------------------------------------|-------|
 | 19 Aug 25  | Introduction to Offensive Sec    | Red team basics, hacker mindset, pentesting   | [Notes](notes/Intro_Offensive_Security.md) |
 | 19 Aug 25  | Introduction to Defensive Sec    | Blue team basics, defense in depth, IR steps  | [Notes](notes/Intro_Defensive_Security.md) |
-| 20 Aug 25  | Networking Basics                | IP, MAC, Ping, Public vs Private, IPv4 vs IPv6, etc. | [Notes](Pre-Security/Networking_Basics.md) |
+| 20 Aug 25  | Networking Basics                | IP, MAC, Ping, Public vs Private, IPv4 vs IPv6, etc. | [Notes](Pre-Security/Networking Basics.md) |
 
 ---
 

@@ -2,8 +2,10 @@
 This repository tracks my progress and notes from TryHackMe rooms as I learn ethical hacking and cybersecurity.
 # 🛡️ My TryHackMe Cybersecurity Journey
 
-This repository documents my learning progress on [TryHackMe](https://tryhackme.com/).  
-I am starting with the basics and will keep updating this repo with notes, summaries, and hands-on exercises.
+This repository documents my progress on [TryHackMe](https://tryhackme.com/),  
+where I’m learning **ethical hacking and cybersecurity** step by step.  
+I use this repo as my **learning diary** – writing down what I learn,  
+my reflections, and how my understanding grows over time.  
 
 ---
 
@@ -17,7 +19,20 @@ I am starting with the basics and will keep updating this repo with notes, summa
 ---
 
 ## 🚀 Progress Log
-| Date       | Room Name                        | Skills Learned                              | Notes |
-|------------|----------------------------------|---------------------------------------------|-------|
-| 19 Aug 25  | Introduction to Offensive Sec    | Basics of red teaming, ethical hacking flow | [Notes](notes/Intro_Offensive_Security.md) |
-| 19 Aug 25  | Introduction to Defensive Sec    | Blue teaming basics, monitoring, defense    | [Notes](notes/Intro_Defensive_Security.md) |
+| Date       | Room Name                        | Skills Learned                                | Notes |
+|------------|----------------------------------|-----------------------------------------------|-------|
+| 19 Aug 25  | Introduction to Offensive Sec    | Red team basics, hacker mindset, pentesting   | [Notes](notes/Intro_Offensive_Security.md) |
+| 19 Aug 25  | Introduction to Defensive Sec    | Blue team basics, defense in depth, IR steps  | [Notes](notes/Intro_Defensive_Security.md) |
+
+---
+
+## 🎯 Why I’m Doing This
+Cybersecurity is not just a career path for me – it’s a skillset I want to master.  
+By keeping my notes here, I can **track my progress**, stay consistent,  
+and also share my journey with others who are starting out.  
+
+---
+
+## 🏅 My TryHackMe Badge
+
+

@@ -10,7 +10,7 @@ my reflections, and how my understanding grows over time.
 ---
 
 ## 📌 Current Stats
-- ✅ Rooms Completed: 2
+- ✅ Rooms Completed: 3
 - 📅 Learning Start: August 2025
 - 🏆 Topics Covered So Far:
   - Introduction to Offensive Security

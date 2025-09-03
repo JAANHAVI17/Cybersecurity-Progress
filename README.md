@@ -1,8 +1,8 @@
 # Cybersecurity-Progress
-This repository tracks my progress and notes from TryHackMe rooms as I learn ethical hacking and cybersecurity.
-# 🛡️ My TryHackMe Cybersecurity Journey
+This repository tracks my progress and notes from different free platforms as I learn ethical hacking and cybersecurity.
+# 🛡️ My Cybersecurity Journey
 
-This repository documents my progress on [TryHackMe](https://tryhackme.com/),  
+This repository documents my progress on [TryHackMe](https://tryhackme.com/), [HackTheBox](https://academy.hackthebox.com/)   
 where I’m learning **ethical hacking and cybersecurity** step by step.  
 I use this repo as my **learning diary** – writing down what I learn,  
 my reflections, and how my understanding grows over time.  
@@ -15,6 +15,7 @@ my reflections, and how my understanding grows over time.
 - 🏆 Topics Covered So Far:
   - Introduction to Offensive Security
   - Introduction to Defensive Security
+  - Networking Basics 
 
 ---
 

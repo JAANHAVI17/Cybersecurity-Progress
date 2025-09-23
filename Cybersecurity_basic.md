@@ -1,89 +1,79 @@
-# Cybersecurity Basics  
-> Short study notes and definitions to learn core cybersecurity concepts.
-
-## 📑 Table of Contents
-- [About](#about)  
-- [Why it Matters](#why-it-matters)  
-- [Key Concepts](#key-concepts)  
-- [Definitions](#definitions)  
-- [Threats & Vulnerabilities](#threats--vulnerabilities)  
-- [Defense Mechanisms](#defense-mechanisms)  
-- [Domains of Cybersecurity](#domains-of-cybersecurity)   
-- [How to Use This Repo](#how-to-use-this-repo)  
-- [Resources & Study Links](#resources--study-links)  
-- [Contributing](#contributing)  
-- [License](#license)
+## Cybersecurity Basics — In Detail
 
 ---
 
-## 🔹 About
-This repo contains short, easy-to-remember notes on fundamental cybersecurity topics — great for quick revision, classroom assignments, or beginner study.
+### What is Cybersecurity  
+Cybersecurity is the practice of protecting systems, networks, and data from cyber threats. These threats include hacking, malware, unauthorized access, data breach, ransomware, etc.
 
 ---
 
-## 🔹 Why it Matters
-- Prevents data breaches and financial loss  
-- Protects personal and organizational information  
-- Ensures digital safety and privacy  
+### Why Cybersecurity is Important? 
+- It helps **prevent data breaches** and financial loss.  
+- It protects personal as well as organizational information.  
+- It ensures digital safety and privacy for individuals and businesses.
 
 ---
 
-## 🔹 Key Concepts
-1. **Threats** → Hackers, malware, phishing, DDoS  
-2. **Vulnerabilities** → Weak passwords, outdated software, misconfiguration  
-3. **Defense Mechanisms** → Firewalls, encryption, multi-factor authentication  
-4. **Cybersecurity Domains** → Network, application, information security  
-5. **Antivirus** → A program that detects, removes, and prevents malicious software  
+### Key Concepts  
+
+| Concept             | Explanation                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| Threats             | Entities or actions that can cause damage: hackers, malware, phishing, DDoS |
+| Vulnerabilities     | Weak spots attackers exploit: weak passwords, outdated software, misconfigurations |
+| Defense Mechanisms  | Tools & strategies to mitigate threats: firewalls, encryption, MFA, antivirus |
+| Cybersecurity Domains | Areas covered: network security, application security, information security, endpoint security, identity & access management |
+| Antivirus           | Software that detects, removes, and prevents malware and other malicious programs |
 
 ---
 
-## 🔹 Definitions
-- **Data Breach** → A security incident where unauthorized people access sensitive information.  
-- **Malware** → Software designed to damage, destroy, or gain unauthorized access to a computer system.  
-- **Phishing** → Fraud that tricks people into sharing sensitive data (e.g., passwords) by pretending to be a trusted entity.  
-- **Ransomware** → A type of malware that locks or steals data and demands payment (ransom) to restore access.  
-- **Firewall** → A network device or software that filters traffic and blocks unauthorized access.  
-- **Encryption** → Transforming information into a code so only authorized people can read it.  
-- **Antivirus** → A program that detects, removes, and protects against malicious software.  
+### Definitions  
+
+| Term         | Definition                                                                 |
+|---------------|----------------------------------------------------------------------------|
+| Data Breach   | A security incident where unauthorized people access sensitive information. |
+| Malware       | Software designed to damage, destroy, or gain unauthorized access to a computer system. |
+| Phishing      | Fraud that tricks someone into giving sensitive data (e.g. passwords) by pretending to be a trusted entity. |
+| Ransomware    | A type of malware that locks or steals data and demands a ransom to restore access. |
+| Firewall      | A device or software that filters traffic and blocks unauthorized access.     |
+| Encryption    | Transforming information into a code so only authorized persons can read it.   |
+| Antivirus     | A program to detect, remove, and protect against malicious software.          |
 
 ---
 
-## 🔹 Threats & Vulnerabilities
-**Common Threats**
-- Hackers (unauthorized access)  
-- Malware (viruses, worms, trojans, ransomware)  
-- Phishing (social engineering emails/websites)  
-- DDoS (service disruption by flooding)  
+### Threats & Vulnerabilities  
 
-**Common Vulnerabilities**
-- Weak or reused passwords  
-- Outdated or unpatched software  
-- Default configurations left unchanged  
-- Misconfigured network services  
+- **Common Threats**  
+  - Hackers: unauthorized access attempts  
+  - Malware: viruses, worms, trojans, ransomware  
+  - Phishing: social engineering emails or fake websites  
+  - DDoS: overwhelming systems to disrupt service  
 
----
-
-## 🔹 Defense Mechanisms
-- **Firewall** → Block or restrict unwanted traffic  
-- **Encryption** → Protect sensitive data at rest and in transit  
-- **Multi-factor Authentication (MFA)** → Requires more than a password to log in  
-- **Antivirus / EDR** → Detect and remove malware  
-- **Patch Management** → Keep software updated to remove vulnerabilities  
-- **Least Privilege** → Give users only the access they need  
+- **Common Vulnerabilities**  
+  - Weak / reused passwords  
+  - Outdated / unpatched software  
+  - Default configurations left unchanged  
+  - Misconfigured network services  
 
 ---
 
-## 🔹 Domains of Cybersecurity
-- **Network Security** → Securing networks, routers, switches, and traffic  
-- **Application Security** → Protecting apps from bugs and attacks (e.g., input validation)  
-- **Information Security** → Protecting data confidentiality, integrity, and availability  
-- **Endpoint Security** → Securing individual devices (PCs, mobiles)  
-- **Identity & Access Management (IAM)** → Managing users and permissions  
+### Defense Mechanisms  
+
+- Firewall — Blocks or restricts unwanted traffic.  
+- Encryption — Protects data (in transit and at rest).  
+- Multi-factor Authentication (MFA) — More than just password for login.  
+- Antivirus / EDR — Detects and removes malware.  
+- Patch Management — Keeps software updated so old vulnerabilities are fixed.  
+- Least Privilege — Gives only necessary access to users and systems.  
 
 ---
 
-## 🔹 Resources & Study Links
-- [TryHackMe](https://tryhackme.com/) — Beginner cybersecurity labs  
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Web app security basics  
-- [Cybrary](https://www.cybrary.it/) — Free cybersecurity courses  
-- [HackTheBox](https://www.hackthebox.com/) — Hands-on ethical hacking  
+### Domains in Cybersecurity  
+
+- **Network Security** — Protecting routers, switches, network paths & traffic.  
+- **Application Security** — Ensuring apps are secure against bugs, injections, etc.  
+- **Information Security** — Keeping data private, correct, and accessible when needed.  
+- **Endpoint Security** — Securing devices like PCs, mobiles, laptops.  
+- **Identity & Access Management (IAM)** — Managing who can do what in the system.  
+
+---
+

@@ -28,7 +28,8 @@ Here the things i learnt from TryHackMe as well as theory part of what i learnt 
 | 19 Aug 25  | Introduction to Defensive Sec    | Blue team basics, defense in depth, IR steps  | [Notes](notes/Intro_Defensive_Security.md) |
 | 20 Aug 25  | Networking Basics                | IP, MAC, Ping, Public vs Private, IPv4 vs IPv6, etc. | [Notes](Pre-Security/Networking%20Basics.md) |
 | 03 Sep 25  | DNS in Detail                 | Domain structure, record types, DNS resolution | [Notes](Pre-Security/DNS_IN_DETAIL.md) |
-| 23 Sep 25  | Cybersecurity Fundamentals    | Cybersecurity, Key concepts, Cyber Threats     | [Notes](
+| 20 Sep 25  | Cybersecurity Fundamentals    | Cybersecurity, Key concepts, Cyber Threats     | [Notes](notes/Cybersecurity_basic.md) |
+| 23 Sep 25  | Kali Linux                      | Kali Linux, UNIX VS LINUX                      | [Notes](
 
 ---
 

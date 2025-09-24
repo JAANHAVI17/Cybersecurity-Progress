@@ -93,7 +93,7 @@ chmod o=r file → Give others only read
 
 - Here’s a screenshot explaining Linux file permissions:  
 
-![Permissions Example](notes/Images/permissions.png)
+![Permissions Example](notes/Images/permissions)
 
 ---
 

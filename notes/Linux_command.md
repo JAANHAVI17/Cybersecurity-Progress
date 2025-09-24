@@ -30,6 +30,7 @@ This repository contains my notes and progress in learning *Linux commands* and 
 - *Other Useful Commands*
   - date → Show system date & time  
   - clear → Clear terminal  
+
   - zip/unzip → Compress/Extract files  
   - locate → Find file location  
 
@@ -93,7 +94,7 @@ chmod o=r file → Give others only read
 
 - Here’s a screenshot explaining Linux file permissions:  
 
-![Permissions Example](notes/Images/permissions)
+<img width="518" height="225" alt="permissions" src="https://github.com/user-attachments/assets/173e000f-31e1-49b6-a8c9-55046dd28f8b" />
 
 ---
 

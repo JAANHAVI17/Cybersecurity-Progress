@@ -36,19 +36,64 @@ This repository contains my notes and progress in learning *Linux commands* and 
 ---
 
 ### 🔹 File Permissions
-- *Permission Types*
-  - r → Read (4)  
-  - w → Write (2)  
-  - x → Execute (1)  
+Linux file permissions control *who can read, write, or execute files and directories*.  
+Each file/directory has 3 types of users and 3 types of permissions.
 
-Here’s a screenshot explaining Linux file permissions:  
+#### *User Types*
+- *u (user/owner)* → The person who created the file  
+- *g (group)* → Users in the file’s group  
+- *o (others)* → Everyone else  
+- *a (all)* → Combination of user, group, and others  
 
-![File Permissions Example](images/permissions.png)
+#### *Permission Types*
+- r → Read (4) : View the contents of a file or list a directory  
+- w → Write (2) : Modify a file or add/delete files in a directory  
+- x → Execute (1) : Run a file as a program or enter a directory  
 
-- *chmod Usage*
-  - chmod 777 file → Full permissions (read, write, execute for all)  
-  - chmod 644 file → Read & write for owner, read-only for others  
-  - chmod u+x file → Add execute permission for user  
+#### *Viewing Permissions*
+Use the command:  
+```bash
+ls -l
+```
+output:
+```bash
+-rwxr-xr--  1 user group  4096 Sep 23  file.sh
+```
+
+## Breakdown:
+
+- → File type ( - = regular file, d = directory, l = link )
+
+rwx → Owner (user) has read, write, and execute
+
+r-x → Group has read and execute
+
+r-- → Others have only read
+
+
+### Changing Permissions (chmod)
+
+Numeric method (octal values)
+
+chmod 777 file → rwx for all (user, group, others)
+
+chmod 644 file → rw for owner, r for group & others
+
+chmod 755 file → rwx for owner, rx for group & others
+
+
+### Symbolic method
+
+chmod u+x file → Add execute for user
+
+chmod g-w file → Remove write for group
+
+chmod o=r file → Give others only read
+
+
+- Here’s a screenshot explaining Linux file permissions:  
+
+![File Permissions Example]()
 
 ---
 
@@ -63,5 +108,7 @@ Here’s a screenshot explaining Linux file permissions:
 - Ctrl + K → Cut text from cursor to end  
 
 ---
+
 ## ✨ Author
 👩‍💻 Janhavi Mestry
+

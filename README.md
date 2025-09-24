@@ -38,3 +38,6 @@ Here the things i learnt from TryHackMe as well as theory part of what i learnt 
 Cybersecurity is not just a career path for me – it’s a skillset I want to master.  
 By keeping my notes here, I can **track my progress**, stay consistent,  
 and also share my journey with others who are starting out.  
+
+## Author
+Janhavi Mestry

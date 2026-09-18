@@ -60,7 +60,7 @@ Cybersecurity-Progress/
 | 01 | 🏠 Home Lab Setup | Write-up (Markdown) | [📄 View Write-up](Projects/HomeLab.md) |
 | 02 | 💥 Brute-Force Attacks | Project Report (PDF) | [📄 View Report](Projects/Brute-Force%20Attacks%20%E2%80%93%20Project%20Report.pdf) |
 | 03 | 🔎 Information Gathering | Project Report (PDF) | [📄 View Report](Projects/Information%20Gathering%20%E2%80%93%20Project%20Report.pdf) |
-
+| 04 | 🛡️ BrightLayer Stores Risk Assessment | Risk Assessment (Markdown) | [📄 View Assessment](Projects/BrightLayer-Stores-Cybersecurity-Risk-Assessment.md) |
 > 💡 *More projects will be added as learning progresses. Check the [Projects folder](Projects/) for the latest work.*
 
 ---
